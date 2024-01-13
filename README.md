@@ -1,5 +1,3 @@
----
-
 # Fenix-Homework1
 
 ## Overview
@@ -41,5 +39,3 @@ To set up the project locally, follow these steps:
 
 ## Author
 Gershon Avital - [Shraga@tgx-group.com](mailto:Shraga@tgx-group.com)
-
----
